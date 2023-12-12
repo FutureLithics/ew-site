@@ -1,0 +1,6 @@
+[submodule "ew-site-frontend"]
+	path = ew-site-frontend
+	url = git@github.com:FutureLithics/ew-site-frontend.git
+[submodule "ew-site-backend"]
+	path = ew-site-backend
+	url = git@github.com:FutureLithics/ew-site-backend.git
